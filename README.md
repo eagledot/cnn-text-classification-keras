@@ -46,7 +46,7 @@ Haven't used regularisation.
 
 ## Basic visualisation
 
-Basic visualistaion procedure is described in visualisation.ipynb file. 
+Basic visualisation procedure is described in visualisation.ipynb file. 
 
 For interactive visualisation run server 
 
